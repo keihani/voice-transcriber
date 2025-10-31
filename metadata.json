@@ -1,0 +1,8 @@
+{
+  "name": "Voice Transcriber",
+  "description": "A real-time voice transcription application using the Gemini API. Users can select microphone, system audio, or both as the input source for transcription.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
