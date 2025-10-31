@@ -1,10 +1,17 @@
 # Real-Time Voice Transcriber v.25
+
 # SPDX-License-Identifier: MIT
+
 #
+
 # Author: Kevin Keihani
+
 # Company: Soroush Fanavari Co
+
 # Contact: yz.keihani@gmail.com
-# GitHub:  https://github.com/keihani
+
+# GitHub: https://github.com/keihani
+
 # LinkedIn: https://linkedin.com/in/keihani
 
 This is a web application that provides real-time voice transcription using Google's Gemini Live API. It can capture audio from a user's microphone or directly from the system's audio output, making it a versatile tool for transcribing meetings, lectures, videos, and more.
@@ -26,7 +33,6 @@ This is a web application that provides real-time voice transcription using Goog
 ## Tech Stack
 
 - **Frontend:** [React](https://reactjs.org/) & [TypeScript](https://www.typescriptlang.org/)
-- **AI Model:** [Google Gemini API](https://ai.google.dev/) (`@google/genai`)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/) (via CDN)
 - **APIs:** Web Audio API, `getUserMedia`, `getDisplayMedia`
 
@@ -60,7 +66,7 @@ The application requires a Google Gemini API key to function.
     VITE_GEMINI_API_KEY=YOUR_API_KEY_HERE
     ```
 
-    *Note: If you are not using Vite, you may need to adjust the environment variable name and how it's loaded into the application (e.g., `REACT_APP_GEMINI_API_KEY` for Create React App).*
+    _Note: If you are not using Vite, you may need to adjust the environment variable name and how it's loaded into the application (e.g., `REACT_APP_GEMINI_API_KEY` for Create React App)._
 
 ### 4. Run the Development Server
 
