@@ -16,7 +16,7 @@
 
 This is a web application that provides real-time voice transcription using Google's Gemini Live API. It can capture audio from a user's microphone or directly from the system's audio output, making it a versatile tool for transcribing meetings, lectures, videos, and more.
 
-![Application Screenshot](https://storage.googleapis.com/aistudio-project-assets/22194b13-5a02-482f-a318-7b4bf4380a0c/screencapture-app-2024-05-21-15_18_38.png)
+![Application Screenshot](https://media.licdn.com/dms/image/v2/D4D22AQGzBKSFv7THuA/feedshare-shrink_1280/B4DZo8NQ8EJUAs-/0/1761946704655?e=1763596800&v=beta&t=AWjjOCzL7HV-MZI7UJdxkTTGvjZyQyiogWTeQBw2oOo)
 
 ---
 
@@ -43,7 +43,7 @@ To run this project locally, you'll need to have [Node.js](https://nodejs.org/) 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/voice-transcriber.git
+git clone https://github.com/keihani/voice-transcriber.git
 cd voice-transcriber
 ```
 
